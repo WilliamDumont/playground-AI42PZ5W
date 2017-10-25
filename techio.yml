@@ -1,5 +1,4 @@
-title: Simple C# template
-
+title: fixing search update
 plan:
-  - title: C# Snippet
-    statement: statement.md
+- title: C# Snippet
+  statement: statement.md
